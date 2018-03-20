@@ -1,4 +1,5 @@
 
+#Вариант №4 Журавлев Вячеслав
 library('data.table')          # работаем с объектами "таблица данных"
 library('moments')             # функции skewness() и kurtosis()
 
